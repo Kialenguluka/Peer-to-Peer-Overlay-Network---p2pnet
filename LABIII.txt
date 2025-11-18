@@ -1,0 +1,16 @@
+TAREFA #3 - Desafios (Implementação de Cliente/Servidor Web simples)
+Para esta Tarefa LAB, fornecerá o código Python que desenvolveu para o servidor Web e o Cliente 
+Web bem como todos os scripts, via GitHub. 
+
+Além disso, também fornecerá resultados da análise de 
+pacote realizada, bem como algumas capturas de tela também são necessárias, como segue: 
+•	Envie o Vagrantfile modificado; 
+•	Envie o código Python para o Servidor Web; 
+•	Envie o código Python para o Cliente Web; 
+•	Anexar, no memorando, a captura de tela do resultado do comando: 
+telnet 192.168.56.21 6789 
+•	Anexar, no memorando, a captura de tela dos resultados do comando: 
+python webclient.py 192.168.56.21 6789 /index.html 
+•	Relate, no memorando, sua análise dos pacotes TCP trocados usando “telnet”; 
+•	Relate, no memorando, sua análise dos pacotes TCP trocados usando “Cliente Web”;  
+
