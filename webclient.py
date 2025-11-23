@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-"""
-Minimal web client for the lab.
-
-Usage: python webclient.py <host> <port> <path>
-Example: python webclient.py 192.168.56.21 6789 /index.html
-
-This client opens a TCP connection, sends a simple HTTP GET, prints the response,
-and saves the raw response to `last_response.txt` for later analysis.
-"""
 import socket
 import sys
 

@@ -9,13 +9,13 @@ scripts antes de executar nas VMs.
 import threading
 import time
 
-import webserver
+import peerserver
 import client
 
 
 def run_test():
     # Start server in daemon thread
-    t = threading.Thread(target=webserver.run, daemon=True)
+    t = threading.Thread(target=peerserver.run, daemon=True)
     t.start()
     # Wait a moment for server to bind
     time.sleep(0.5)

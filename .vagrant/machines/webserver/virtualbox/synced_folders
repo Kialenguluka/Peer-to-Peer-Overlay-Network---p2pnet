@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/HP/Documents/ISPTEC/REDES DE COMPUTADORES I/RC1Projectos/multinode","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"disabled":false,"guestpath":"/vagrant","hostpath":"C:/Users/HP/Documents/ISPTEC/REDES DE COMPUTADORES I/RC1Projectos/multinode","__vagrantfile":true}}}
